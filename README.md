@@ -2,8 +2,9 @@
  
 ### Created By Princy Hareshbhai Vadsak
 
-#### This application is 4 by 4 TicTacToe game.
+#### This application is for  4 x 4 TicTacToe game uing collection view.
 
+##### In this application first screen display 16 blank squares.First turn is for the x player and second player is for player 0.First time user click on any square box is display the x on square. then the second player turn for 0 for any square. If Square is not empty then its not change the value on square and its not chane the turn of player.if player 0 or x is win then give alert for winners.If no one is win means the match is draw then its give the gives alert for the draw . and dismmis the wining alert or draw alert then game is start again.
 
 # Screenshots Of TicTacToe Game Application
 
