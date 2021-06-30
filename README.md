@@ -1,4 +1,4 @@
-# TicTacToe-CollectionView(Assignment-08)
+# TicTacToe-CollectionView(Assignment-09)
  
 ### Created By Princy Hareshbhai Vadsak
 
@@ -7,16 +7,15 @@
 ##### In this application first screen display 16 blank squares.First turn is for the x player and second player is for player 0.First time user click on any square box is display the x on square. then the second player turn for 0 for any square. If Square is not empty then its not change the value on square and its not chane the turn of player.if player 0 or x is win then give alert for winners.If no one is win means the match is draw then its give the gives alert for the draw . and dismmis the wining alert or draw alert then game is start again.
 
 # List Of UiElements Which Is Use In This Application:
-* UILabel 
-* UITextField 
-* UITextView 
-* UIButton
 * UIImageView 
-* UITableViewCell
+* UIViewController
+* UICollectionViewCell
+* UICollectionViewDataSource
+* UICollectionViewDelegate
 
 
 # Screenshots Of TicTacToe Game Application
-
+.
 ![TicTacToe1](https://user-images.githubusercontent.com/81640415/123968677-147e1200-d9d5-11eb-810d-850cfb58ce32.png)
 
 
